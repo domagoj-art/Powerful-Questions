@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_create_takingNote"
+        android:title="create"
+        android:enabled="true"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_white_24dp"
+        />
+    <item
+        android:id="@+id/action_back_takingNote"
+        android:title="back"
+        android:enabled="true"
+        android:orderInCategory="0"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_arrow_back_white_24dp"
+        />
+
+    <item
+        android:title="task"
+        android:id="@+id/action_tasks_menu_taking_note"
+        android:enabled="true"
+        android:icon="@drawable/ic_assignment_wite_24dp"
+        app:showAsAction="always"
+        />
+
+
+</menu>

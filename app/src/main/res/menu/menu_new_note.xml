@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_new_note_save"
+        android:title="save"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_save_black_24dp"
+        />
+
+    <item
+        android:id="@+id/action_new_note_delete"
+        android:title="delete"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_delete_white_24dp"
+        />
+    <item
+        android:id="@+id/action_new_note_back"
+        android:title="back"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:orderInCategory="0"
+        android:icon="@drawable/ic_arrow_back_white_24dp"
+        />
+
+</menu>

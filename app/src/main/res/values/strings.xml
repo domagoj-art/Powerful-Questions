@@ -1,0 +1,351 @@
+<resources>
+    <string name="app_name">Powerful Questions</string>
+    <string name="a">What do I really want?</string>
+    <string name="b">What is most important for me in life?</string>
+    <string name="c">What is the purpose of my life?</string>
+    <string name="d">What is my highest vision for myself?</string>
+    <string name="e">What is the next level of my life purpose?</string>
+    <string name="f">How do I be more creative? </string>
+    <string name="g">How do I be a visionary?</string>
+    <string name="h">How to I keep myself from backsliding?</string>
+    <string name="i">Why do I backslide at all?</string>
+    <string name="j">Why do I have ego backlashes?</string>
+    <string name="k">What new product or service could change the world? </string>
+    <string name="l">What does the world really need right now?</string>
+    <string name="n">What causes me to get in a rut? </string>
+    <string name="m">What motivates me?</string>
+    <string name="o">What excites me?</string>
+    <string name="p">What would I do if I had no fear or limitation?</string>
+    <string name="r">How am I dishonest with myself?</string>
+    <string name="s">What am I avoiding in my life? </string>
+    <string name="t">What ideological positions or beliefs do I cling to?</string>
+    <string name="u">What am I unwilling to let go of in life?</string>
+    <string name="a1">Why aren’t I able to surrender?</string>
+    <string name="b1">Why is my mind so active all the time?</string>
+    <string name="c1">Why do I have emotions?</string>
+    <string name="d1">What is the purpose of my emotions?</string>
+    <string name="e1">Why are people selfish?</string>
+    <string name="f1">Why does religion exist?</string>
+    <string name="g1">Why are there so many different kinds of religion?</string>
+    <string name="h1">Why do people disagree about non-duality?</string>
+    <string name="i1">Where is humanity headed in the future?</string>
+    <string name="j1">What is my role in humanity’s future?</string>
+    <string name="k1">What is my role in society?</string>
+    <string name="l1">Why do I judge, criticize and complain?</string>
+    <string name="n1">What’s the function of judging, criticizing and complaining?</string>
+    <string name="m1">How am I failing to take responsibility for my life?</string>
+    <string name="o1">What does it mean to be more conscious ? What are some examples of?</string>
+    <string name="p1">How is my worldview holding me back?</string>
+    <string name="r1">What is my worldview? </string>
+    <string name="s1">Why do I love x? (fill in x with whatever you want)?</string>
+    <string name="t1">What is the next stage of evolution for my business/career?</string>
+    <string name="u1">What is the next stage of my business or career?</string>
+    <string name="a2">Why do I truly believe I need to have in order to be happy?</string>
+    <string name="b2">Why do I meditate? </string>
+    <string name="c2">Why do I want this relationship?</string>
+    <string name="d2">What is the most powerful question that I could ask?</string>
+    <string name="e2">What important questions are not being asked in this situation?</string>
+    <string name="f2">How do I become successful?</string>
+    <string name="g2">What makes people so effective?</string>
+    <string name="h2">How am I unique?</string>
+    <string name="i2">How am I not being true to my uniqueness?</string>
+    <string name="j2">How do I become a better leader/artist/parent/person/x?</string>
+    <string name="k2">What am I like when I’m at my best?</string>
+    <string name="l2">What am I like when I’m at my worst?</string>
+    <string name="n2">In what ways am I a devil?</string>
+    <string name="m2">How are x and y the same? how are x and y different?</string>
+    <string name="o2">What are some totally new ways I could live my life? </string>
+    <string name="p2">Why am I resisting x(fill in x with whatever you want)?</string>
+    <string name="r2">Why am I afraid of x(fill in x with whatever you want)?</string>
+    <string name="s2">What would be my ideal job? </string>
+    <string name="t2">what will I regret most on my deathbed?</string>
+    <string name="u2">How am I being inauthentic and why?</string>
+    <string name="a3">What am I most proud of my life and how can I do more of that?</string>
+    <string name="b3">What robs me of energy and passion? </string>
+    <string name="c3">How could I use my mind in better ways?</string>
+    <string name="d3">Why are there so many deluded people in the world? How can I make sure that I don’t end up like them?</string>
+    <string name="e3">What is the lesson here?</string>
+    <string name="f3">What are the top 5 ideas from this book? </string>
+    <string name="g4">What causes me stress?</string>
+    <string name="h4">What is stress?</string>
+    <string name="i4">What do I admire about that person?</string>
+    <string name="j4">What lessons could I learn from that person?(include negative examples)?</string>
+    <string name="k4">What would a permanent fix for this x be (fill in x with whatever you want)?</string>
+    <string name="l4">What is the root of this __ problem?(fill in__with whatever you want) What opportunities am I overlooking?</string>
+    <string name="n4">If I could get the answer to any question, what question would I ask?</string>
+    <string name="m4">What makes me feel creative?</string>
+    <string name="o4">When am I at my most creative?</string>
+    <string name="p4">What would be a more authentic way of doing this?</string>
+    <string name="r4">What would be a more authentic way of doing my job/flirting with women/relating to my children/?</string>
+    <string name="s4">What would be a better way of doing this?</string>
+    <string name="t4">How does this look from another persons point of view? </string>
+    <string name="h5">What top 3 things would transform my life?</string>
+    <string name="i5">What makes me come alive?</string>
+    <string name="j5">Why does this trigger me? </string>
+    <string name="k5">How can I be more aligned with God/Universe/Buddha/Higher Self/Source/Energy?</string>
+    <string name="l5">Why am I struggling with __?(fill in__with whatever you want)</string>
+    <string name="n5">Where can I find the answers? </string>
+    <string name="m5">How am I being selfish?</string>
+    <string name="o5">How can I make my psychedelic experiences stick in everyday life?</string>
+    <string name="p5">What’s holding mankind back?</string>
+    <string name="r5">What’s the big picture here? </string>
+    <string name="s5">What are the most common traps here? (eg. enlightenment/meditation/starting business/dating/having children?)</string>
+    <string name="t5">If this thing that I’m doing fails, what will be the most likely causes?</string>
+    <string name="u5">What am I really good at?</string>
+    <string name="g5">How is my thinking about this limited?</string>
+    <string name="h6">Who could give me good advice on this topic?</string>
+    <string name="i6">What if my core assumptions are wrong about this situation?</string>
+    <string name="j6">What are my core assumptions?</string>
+    <string name="k6">How could I change my core assumptions?</string>
+    <string name="l6">What could I change if I had more confidence in myself?</string>
+    <string name="n6">How am I being reactive and defensive ?</string>
+    <string name="m6">What am I really trying to say here?</string>
+    <string name="o6">How am I creating this problem?</string>
+    <string name="p6">How could I make this task more enjoyable?</string>
+    <string name="r6">How am I being closed-minded?</string>
+    <string name="s6">What are the most powerful self-help techniques?</string>
+    <string name="t6">How can I become financially independent?</string>
+    <string name="u6">What should be the next chapter in my life? </string>
+    <string name="u7">What am i missing?</string>
+    <string name="u8">What are my advantages?</string>
+    <string name="u9">What are my disadvantages?</string>
+    <string name="u10">What kind of challenges am I avoiding and why?</string>
+    <string name="u11">What questions do I frequently ask myself?</string>
+    <string name="u12">How do I discover and understand my advantages?</string>
+    <string name="u13">How do I discover and understand my disadvantages?</string>
+    <string name="u14">On what way do I use self-knowledge to become better ?</string>
+    <string name="z">What are you trying not to see but you really do see?</string>
+    <string name="z1">What do you see but trying not to see?</string>
+    <string name="z2">In what ways you sabotage your self?</string>
+    <string name="z3">What lies do you tell your self?</string>
+    <string name="z4">What is courage?</string>
+    <string name="z5">What is the deepest emotion you ever felt?</string>
+    <string name="z6">What is the most beautiful thing in the world?</string>
+    <string name="z7">How do you maximize your potential?</string>
+    <string name="z8">How do you reward your self?</string>
+    <string name="z9">How to fix emotional problems?</string>
+    <string name="z11">How to practice spirituality better?</string>
+    <string name="z12">How to meditate better?</string>
+    <string name="z13">How to fix your relationship?</string>
+    <string name="z14">How to fix money problems?</string>
+
+
+
+    <string name="allQuestions">-What do I really want?\n
+    -What is most important for me in life?\n
+    -What is the purpose of my life?\n
+    -What is my highest vision for myself?\n
+    -What is the next level of my life purpose?\n
+    -How do I be more creative?\n
+    -How do I be a visionary?\n
+    -How to I keep myself from backsliding?\n
+    -Why do I backslide at all?\n
+    -Why do I have ego backlashes?\n
+    -What new product or service could change the world?\n
+    -What does the world really need right now?\n
+    -What causes me to get in a rut?\n
+    -What motivates me?\n
+    -What excites me?\n
+    -What would I do if I had no fear or limitation?\n
+    -How am I dishonest with myself?\n
+    -What am I avoiding in my life?\n
+    -What ideological positions or beliefs do I cling to?\n
+    -What am I unwilling to let go of in life?\n
+    -Why aren’t I able to surrender?\n
+    -Why is my mind so active all the time?\n
+    -Why do I have emotions?\n
+    -What is the purpose of my emotions?\n
+    -Why are people selfish?\n
+    -Why does religion exist?\n
+    -Why are there so many different kinds of religion?\n
+    -Why do people disagree about non-duality?\n
+    -Where is humanity headed in the future?\n
+    -What is my role in humanity’s future?\n
+    -What is my role in society?\n
+    -Why do I judge, criticize and complain?\n
+    -What’s the function of judging, criticizing and complaining?\n
+    -How am I failing to take responsibility for my life?\n
+    -What does it mean to be more conscious ? What are some examples of?\n
+    -How is my worldview holding me back?\n
+    -What is my worldview?\n
+    -Why do I love x? (fill in x with whatever you want)\n
+    -What is the next stage of evolution for my business/career?\n
+    -What is the next stage of my business or career?\n
+    -Why do I truly believe I need to have in order to be happy?\n
+    -Why do I meditate?\n
+    -Why do I want this relationship?\n
+    -What is the most powerful question that I could ask?\n
+    -What important questions are not being asked in this situation?\n
+    -How do I become successful?\n
+    -What makes people so effective?\n
+    -How am I unique?\n
+    -Wow am I not being true to my uniqueness?\n
+    -How do I become a better leader/artist/parent/person/x?\n
+    -What am I like when I’m at my best?\n
+    -What am I like when I’m at my worst?\n
+    -In what ways am I a devil?\n
+    -How are x and y the same? how are x and y different?\n
+    -What are some totally new ways I could live my life?\n
+    -Why am I resisting x(fill in x with whatever you want)?\n
+    -Why am I afraid of x(fill in x with whatever you want)?\n
+    -What would be my ideal job?\n
+    -What will I regret most on my deathbed?\n
+    -How am I being inauthentic and why?\n
+    -What am I most proud of my life and how can I do more of that?\n
+    -What robs me of energy and passion?\n
+    -How could I use my mind in better ways?\n
+    -Why are there so many deluded people in the world? How can I make sure that I don’t end up like them?\n
+    -What is the lesson here?\n
+    -What are the top 5 ideas from this book?\n
+    -What causes me stress?\n
+    -What is stress?\n
+    -What do I admire about that person?\n
+    -What lessons could I learn from that person?(include negative examples)\n
+    -What would a permanent fix for this x be (fill in x with whatever you want)?\n
+    -What is the root of this __ problem? What opportunities am I overlooking?(fill in__with whatever you want)\n
+    -If I could get the answer to any question, what question would I ask?\n
+    -What makes me feel creative?\n
+    -When am I at my most creative?\n
+    -What would be a more authentic way of doing this?\n
+    -What would be a more authentic way of doing my job/flirting with women/relating to my children/?\n
+    -What would be a better way of doing this?\n
+    -How does this look from another persons point of view?\n
+    -What top 3 things would transform my life?\n
+    -What makes me come alive?\n
+    -Why does this trigger me?\n
+    -How can I be more aligned with God/Universe/Buddha/Higher Self/Source/Energy?\n
+    -Why am I struggling with __?(fill in__with whatever you want)\n
+    -Where can I find the answers?\n
+    -Wow am I being selfish?\n
+    -How can I make my psychedelic experiences stick in everyday life?\n
+    -What’s holding mankind back?\n
+    -What’s the big picture here?\n
+    -What are the most common traps here? (eg. enlightenment/meditation/starting business/dating/having children?)\n
+    -If this thing that I’m doing fails, what will be the most likely causes?\n
+    -What am I really good at?\n
+    -How is my thinking about this limited?\n
+    -Who could give me good advice on this topic?\n
+    -What if my core assumptions are wrong about this situation?\n
+    -What are my core assumptions?\n
+    -How could I change my core assumptions?\n
+    -What could I change if I had more confidence in myself?\n
+    -How am I being reactive and defensive?\n
+    -What am I really trying to say here?\n
+    -How am I creating this problem?\n
+    -How could I make this task more enjoyable?\n
+    -How am I being closed-minded?\n
+    -What are the most powerful self-help techniques?\n
+    -How can I become financially independent?\n
+    -What should be the next chapter in my life?\n
+    -What am i missing?\n
+    -What are my advantages?\n
+    -What are my disadvantages?\n
+    -What kind of challenges am I avoiding and why?\n
+    -What questions do I frequently ask myself?\n
+    -How do I discover and understand my advantages?\n
+    -How do I discover and understand my disadvantages?\n
+    -On what way do I use self-knowledge to become better?\n
+    -What are you trying not to see but you really do see?\n
+    -What do you see but trying not to see?\n
+    -In what ways you sabotage your self?\n
+    -What lies do you tell your self?\n
+    -What is time?\n
+    -What is consciousness?\n
+    -What is courage?\n
+    -What is the deepest emotion you ever felt\?n
+    -What is the most beautiful thing in the world?\n
+    -How do you maximize your potential?\n
+    -How do you reward your self?\n
+    -What that is like for you?\n
+    -How to fix emotional problems?\n
+    -How to practice spirituality better?\n
+    -How to meditate better?\n
+    -How to fix your relationship?\n
+    -How to fix money problems?\n
+        \n
+        \n
+        \n
+        \n
+        \nThese questions below are philosophical and I think they wont have that much impact on your
+        life like questions above.Because of that i did not include them in random generator.But they are important
+        \n
+        \nMetaphysical: About reality
+        \n
+        \n-How come existence exists at all?
+        \n-What is existence?
+        \n-How is existence related to non-existence?
+        \n-Why is reality structured as it is?
+        \n-Are there other possible ways reality can be ordered other than our own?
+        \n-Why are the laws of physics the way they are?
+        \n-Which comes first: consciousness or matter? Does consciousness come out of matter of does matter occur within consciousness?
+        \n-What is matter, energy, space, time?
+        \n-What is outside the universe? Is it infinite or finite? Why?
+        \n-What existed before the big bang?
+        \n-How does the material interact with the immaterial?
+        \n-What governs what’s possible and impossible in the universe? What sets limits on the universe?
+        \n-What governs emergent properties (eg atoms, molecules)?
+        \n-How can emergent properties arise out of nowhere?
+        \n-What makes a thing a thing? What is an object (a single thing, multiple things)?
+        \n-Does reality have a bottom most scale? Eg lower than atoms, and lower than that. Does reality have a top most scale eg higher than planets, universes etc. Are there limits or do the levels go infinitely up and down
+        \n-Does the evolution of the universe have a purpose? If so, where does it lead to?
+        \n-Does external reality exist at all?
+        \n-What is God? What would the concept of God entail?
+        \n-What are thoughts?
+        \n-How did life start? Aka Where did it all come from?
+        \n-What is time?
+        \n
+        \nEpistemic: The study of knowledge
+        \n
+        \n-How do we know what we know?
+        \n-How can I know anything for certain?
+        \n-What makes justifications valid?
+        \n-Why do billions of people believe in God?
+        \n-Why do people disagree about good and bad, right and wrong, moral and immoral?
+        \n-How come intelligent people delude themselves? Eg scientists who are creationists. How can I be sure that I’m not deluded?
+        \n-How do I know that I’m not indoctrinated aka brainwashed into believing things without thinking about them myself.
+        \n-What is science? Is it the best way of arriving at knowledge?
+        \n-What are the limits of science? Are there things that science can’t understand/explain?
+        \n-What is mathematics? What makes it valid?
+        \n-What are the limits of mathematics? Is it displayed by reality or projected by the human mind?
+        \n-What is rationality? How does it work and why is it valid? Limitless? Displayed by reality or projected by the human mind`
+        \n-Which is more valid, the senses, rationality, or intuition?
+        \n-What are the biases/blind spots of humanity as a whole?
+        \n-How do animals understand reality?
+        \n-Are there creatures with higher intelligence than humans? If so, how can we be certain of our knowledge?
+        \n-Why is human knowledge taken as the ultimate truth?
+        \n-What is truth? Is is objective or subjective
+        \n-Where does understanding come from? How can we rely upon it?
+        \n-What is the ultimate truth?
+        \n-What is the best way to acquire knowledge?
+        \n-Is reality understandable? Can humans understand it all or not because we are limited
+        \n
+        \nSelf: You as an individual
+        \n
+        \n-How can I be sure that I exist at all?
+        \n-If I exist, what am I? Biological? How do I know?
+        \n-How did I, aka the indentity of me, come into being?
+        \n-What justifies indentifying with the body or the mind? If the body is yours and the mind is too, who owns these things
+        \n-If I am the body and the mind, what is everything else. Where do ‘I’ stop and the rest of the world begin?
+        \n-What is in control of my thoughts?
+        \n-What is my role in reality? My purpose?
+        \n-How should I live my life to maximise happiness?
+        \
+        \n-Consciousness: The mind and all mental fabrications
+        \n
+        \n-What is consciousness?
+        \n-How is perception possible?
+        \n-What unifies our senses into a seamless experience?
+        \n-What if there are higher levels of consciousness? What would that mean for our understanding of the world?
+        \n-What about the different levels of consciousness eg on psychedelics, meditation. What do they mean? Are they better/worse/more or less real than ordinary consciousness?
+        \n-Are consciousnesses separate or is consciousness one thing?
+        \n-Can artificial consciousness be created
+        \n-Can consciousness be split or joined?
+        \n-Could inanimate matter be conscious?
+        \n-Is consciousness only accessible to higher level beings or is it everywhere in the world?
+        \n-What are the laws governing qualities (qualities of the senses)?
+
+
+    </string>
+
+    <string name="dialog">in here I will put description and 5 tasks </string>
+</resources>
